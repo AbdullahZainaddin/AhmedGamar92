@@ -1,8 +1,8 @@
 # Lab 4 - Data Quality Assessment & Preprocessing
 
 ## Student Information
-Name: Ahmed Gamar  
-Course: (Your Course Name)  
+Name: Abdullah Zainaddin  
+Course: Machine learning
 Lab: 4  
 
 ---
